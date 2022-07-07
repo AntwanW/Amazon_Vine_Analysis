@@ -22,4 +22,4 @@ Table below which shows a similar of the rating between the Vine and the non Vin
 This analysis aims to determine if there is a bias in favor of positive reviews from Vine members. I looked at reviews with more than 20 total votes and those with equal to or greater than 50%. I then selected those that were more likely to be helpful..
 
 ![This is an image](https://github.com/Wrancher123/Amazon_Vine_Analysis/blob/main/images/Total%20Vine%20Reviews.png)
-![This is an image](https://github.com/Wrancher123/Amazon_Vine_Analysis/blob/main/images/Total%20non%20Vine%20Reviews.png)gi
+![This is an image](https://github.com/Wrancher123/Amazon_Vine_Analysis/blob/main/images/Total%20non%20Vine%20Reviews.png)
